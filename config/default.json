@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://CookBook:CookBook@cookbookdb.smkpevo.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "jwt-secret"
+}
